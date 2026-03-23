@@ -1,11 +1,15 @@
 # 7DOVE-KODY--PLUGIN
 
+Minecraft Autorski Plugin Dla Kodow, Po Wgraniu Pluginu Mozna Uzyc Komendy /kodgui W ktorym mozna utowrzyc kody / edytowwac  / usunac i wiele innych
+
+
+
 # Komendy Ktore Oferuje Plugin:
 
   kod:
-    usage: /kod <kod>
+    usage: /kod <kod> { Gracz Wykonuje Kod np /Kod AVE }
   kodgui:
-    usage: /kodgui { Stworzenie Kodu / Usuwanie Kodu / Edycja Komend / I wielle Wiecej /kodgui
+    usage: /kodgui { Stworzenie Kodu / Usuwanie Kodu / Edycja Komend / I wielle Wiecej /kodgui { Dla Administracji } Gracze Nie maja permsow!
 
 
 # Permsy
